@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../day03_eesy_03springAOP/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url=" http://www.springframework.org/schema/aop/spring-aop.xsd" location="$PROJECT_DIR$" />
+    <resource url=" http://www.springframework.org/schema/beans/spring-beans.xsd " location="$PROJECT_DIR$" />
+    <resource url="http://www.springframework.org/schema/aop" location="$PROJECT_DIR$" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="$PROJECT_DIR$" />
+    <resource url="http://www.springframework.org/schema/beans" location="$PROJECT_DIR$" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/334543e7_spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/bsean" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="12" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../day03_eesy_03springAOP/out" />
+  </component>
+</project>
